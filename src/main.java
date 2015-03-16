@@ -14,11 +14,13 @@ public class main  extends PApplet{
         _game.Start();
     }
 
+
     public void loop()
     {
         if(_game.IsRunning())
         {
             _game.GameLoop();
+            //teste
         }
     }
 
