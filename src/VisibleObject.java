@@ -10,6 +10,7 @@ public class VisibleObject {
     protected PVector position;
     protected PVector size;
 
+
     public VisibleObject(PApplet par)
     {
         parent = par;
