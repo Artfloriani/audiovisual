@@ -10,6 +10,7 @@ public class VisibleObject {
     protected PVector position;
     protected PVector size;
 
+    protected PVector velocity;
 
     public VisibleObject(PApplet par)
     {
